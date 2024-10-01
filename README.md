@@ -1,5 +1,5 @@
 ## Nice to meet you! 👋
-My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development. If you have any questions, [please reach out to me](mailto:andreas.liderfors@gmail.com)
+My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development. Feel free to [reach out to me](mailto:andreas.liderfors@gmail.com) if you have any questions
 ## 💻 What I’m currently working on:
 🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments, using Next.js<br>
 
