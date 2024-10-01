@@ -1,14 +1,14 @@
 ## Nice to meet you! 👋
-My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development.
-### 💻 What I’m currently working on:
-🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments, using Next.js<br>✏️ 
+My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development. If you have any questions, [please reach out to me](mailto:andreas.liderfors@gmail.com)
+## 💻 What I’m currently working on:
+🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments, using Next.js<br>
 
 # 📚 What I’m learning:
 Im currently studying the European Accessibility Act to ensure I create inclusive and accessible digital experiences for all users. <br>
 Im studying at EC utbildning. The act will take place in Europe in 2025.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreas-liderfors-westholm-195676154/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreas-liderfors-westholm-195676154/) <br>
 [Email me](mailto:andreas.liderfors@gmail.com)
 
 # 💻 Tech Stack:
