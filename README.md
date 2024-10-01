@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
 My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development.
-# 💻 What I’m currently working on:
+### 💻 What I’m currently working on:
 🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments, using Next.js<br>✏️ 
 
 # 📚 What I’m learning:
