@@ -1,4 +1,5 @@
 ## Hi there 👋
+Nice to meet you! My name is Andreas and im an aspiring fullstack developer. I recently graduated as a frontend developer and i am eager to learn more. 
 # 💫 About Me:
 🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments<br>✏️ Im currently studying European accessibility act (EAA) at EC utbildning (sept-dec 2024)<br>
 
