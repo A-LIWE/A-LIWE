@@ -6,7 +6,6 @@ My name is Andreas and I'm an aspiring full-stack developer. I recently graduate
 
 ## 📚 What I’m learning:
 Im currently studying the European Accessibility Act to ensure I create inclusive and accessible digital experiences for all users. <br>
-Im studying at EC utbildning. The act will take place in Europe in 2025.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreas-liderfors-westholm-195676154/) <br>
