@@ -1,6 +1,10 @@
 ## Nice to meet you! 👋
 My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development. Feel free to [reach out to me](mailto:andreas.liderfors@gmail.com) if you have any questions.
 
+## 📁 Projects:
+A chatbot designed to mimic Dag Otto, the theatrical character from Krister Classon's revue plays. Dag Otto is known for his clumsiness and frequent mispronunciations. The application utilizes OpenAI's API. [Dag Otto Chatbot](https://dag-otto-chatbot.vercel.app/)
+
+
 ## 💻 What I’m currently working on:
 🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments, using Next.js.<br>
 
