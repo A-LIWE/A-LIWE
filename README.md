@@ -14,7 +14,7 @@ A chatbot designed to mimic Dag Otto, the theatrical character from Krister Clas
 Im currently studying Flutter at STI to make sure that i master the craft of developing cross platform applications. <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreas-liderfors-westholm-195676154/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-liderfors-westholm/) <br>
 [Email me](mailto:andreas.liderfors@gmail.com)
 
 ## 💻 Tech Stack:
