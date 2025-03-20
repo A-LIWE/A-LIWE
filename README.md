@@ -1,15 +1,17 @@
 ## Nice to meet you! 👋
-My name is Andreas and I'm an aspiring full-stack developer. I recently graduated as a front-end developer, and I’m eager to expand my knowledge and skills in full-stack development. Feel free to [reach out to me](mailto:andreas.liderfors@gmail.com) if you have any questions.
+My name is Andreas and I'm a software developer with a bit of extra passion towards frontend and accessibility. Feel free to [reach out to me](mailto:andreas.liderfors@gmail.com) if you have any questions.
 
 ## 📁 Projects:
 A chatbot designed to mimic Dag Otto, the theatrical character from Krister Classon's revue plays. Dag Otto is known for his clumsiness and frequent mispronunciations. The application utilizes OpenAI's API. [Dag Otto Chatbot](https://dag-otto-chatbot.vercel.app/)
 
 
 ## 💻 What I’m currently working on:
-🔭 Im currently working on developing a small e-shop for hand made Christmas ornaments, using Next.js.<br>
+🔭 A small website for hand made Christmas ornaments. <a href="https://www.prästtorpsboden.se">Visit Prästtorpsboden!</a> <br>
+🔭 A marketplace for Motorcycles. Built with Vite, TypeScript, React, shadcn-ui and Tailwind CSS.
+🔭 A parking app built with dart and flutter.
 
 ## 📚 What I’m learning:
-Im currently studying the European Accessibility Act to ensure I create inclusive and accessible digital experiences for all users. <br>
+Im currently studying Flutter at STI to make sure that i master the craft of developing cross platform applications. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreas-liderfors-westholm-195676154/) <br>
