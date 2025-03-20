@@ -7,7 +7,7 @@ A chatbot designed to mimic Dag Otto, the theatrical character from Krister Clas
 
 ## 💻 What I’m currently working on:
 🔭 A small website for hand made Christmas ornaments. <a href="https://www.prästtorpsboden.se">Visit Prästtorpsboden!</a> <br>
-🔭 A marketplace for Motorcycles. Built with Vite, TypeScript, React, shadcn-ui and Tailwind CSS.
+🔭 A marketplace for Motorcycles. Built with Vite, TypeScript, React, shadcn-ui and Tailwind CSS. <br>
 🔭 A parking app built with dart and flutter.
 
 ## 📚 What I’m learning:
